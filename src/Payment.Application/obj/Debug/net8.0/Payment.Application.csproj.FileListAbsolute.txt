@@ -15,3 +15,4 @@ d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Application\obj\Debug
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Application\obj\Debug\net8.0\refint\Payment.Application.dll
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Application\obj\Debug\net8.0\Payment.Application.pdb
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Application\obj\Debug\net8.0\ref\Payment.Application.dll
+D:\Net8Service\t_Net8Services\services\Payment\src\Payment.Application\obj\Debug\net8.0\Payment.Application.sourcelink.json

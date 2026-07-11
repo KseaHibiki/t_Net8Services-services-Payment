@@ -18,7 +18,7 @@ public class PaymentDbContext : DbContext
         {
             b.ToTable("payments");
             b.HasKey(p => p.Id);
-            b.HasIndex(p => p.OrderId).IsUnique();
+            b.HasIndex(p => p.OrderId).IsUnique(); // 一个订单只能有一条支付记录
             b.Property(p => p.ProductId).IsRequired();
             b.Property(p => p.Quantity).IsRequired();
             b.Property(p => p.Amount).HasColumnType("decimal(18,2)").IsRequired();

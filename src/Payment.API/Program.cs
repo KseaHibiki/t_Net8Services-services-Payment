@@ -61,9 +61,9 @@ builder.Services.AddMassTransit(x =>
 
         cfg.ReceiveEndpoint("payment-order-created-queue", e =>
         {
-            e.Durable = true;
-            e.AutoDelete = false;
-            e.PurgeOnStartup = false;
+            e.Durable = true; // RabbitMQ 重启后队列不丢失
+            e.AutoDelete = false; // 没消费者时也不自动删除
+            e.PurgeOnStartup = false; // 启动时不清空消息
             e.UseMessageRetry(r => r.Interval(3, TimeSpan.FromSeconds(5)));
             e.ConfigureConsumer<OrderCreatedConsumer>(context);
         });

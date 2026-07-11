@@ -13,3 +13,4 @@ d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll
+D:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.sourcelink.json

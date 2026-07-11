@@ -17,3 +17,4 @@ d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Infrastructure\obj\De
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Infrastructure\obj\Debug\net8.0\refint\Payment.Infrastructure.dll
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Infrastructure\obj\Debug\net8.0\Payment.Infrastructure.pdb
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Infrastructure\obj\Debug\net8.0\ref\Payment.Infrastructure.dll
+D:\Net8Service\t_Net8Services\services\Payment\src\Payment.Infrastructure\obj\Debug\net8.0\Payment.Infrastructure.sourcelink.json

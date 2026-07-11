@@ -132,17 +132,27 @@ src/
 }
 ```
 
+## 环境配置
+
+服务通过 `appsettings.json` + `appsettings.{Environment}.json` 实现多环境配置，由 `ASPNETCORE_ENVIRONMENT` 环境变量控制。
+
+| 配置文件 | 适用环境 | 日志级别 | EF Core SQL 日志 | 数据库连接 |
+|----------|:--------:|:--------:|:----------------:|:----------:|
+| `appsettings.json` | 基础公共 | Information (基础) | — | Docker 内部 `payment-mysql` |
+| `appsettings.Development.json` | Development | Debug | 开启 | `localhost:3309` |
+| `appsettings.Production.json` | Production | Warning | 关闭 | Docker 内部 (环境变量覆写) |
+
+> `docker-compose.yml` 中设置 `ASPNETCORE_ENVIRONMENT=Development`，`docker-compose.prod.yml` 中设置为 `Production`。
+> 生产环境连接串通过 Docker 环境变量 `ConnectionStrings__payment`、`ConnectionStrings__rabbitmq` 等覆写。
+
 ### 运行
 
 ```bash
-# 还原依赖
-dotnet restore Payment.sln
-
-# 编译
-dotnet build Payment.sln
-
-# 运行
+# Development 模式（默认）
 dotnet run --project src/Payment.API
+
+# 或指定环境
+ASPNETCORE_ENVIRONMENT=Development dotnet run --project src/Payment.API
 ```
 
 ### Docker

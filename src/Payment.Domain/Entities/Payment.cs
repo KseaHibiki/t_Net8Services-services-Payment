@@ -19,7 +19,7 @@ public class Payment
     public PaymentStatus Status { get; private set; }
     public DateTime CreatedAt { get; private set; }
     public DateTime? PaidAt { get; private set; }
-    public byte[] RowVersion { get; private set; } = [];
+    public byte[] RowVersion { get; private set; } = []; //RowVersion ÀÖ¹Û²¢·¢Ëø
 
     private Payment() { }
 
