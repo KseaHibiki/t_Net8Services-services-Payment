@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02D1C834-5785-4437-AF24-01246BEA13CC}|src\\Payment.Application\\Payment.Application.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.application\\consumers\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02D1C834-5785-4437-AF24-01246BEA13CC}|src\\Payment.Application\\Payment.Application.csproj|solutionrelative:src\\payment.application\\consumers\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAD5665-A5D9-4D62-A022-068C36517B95}|src\\Payment.Infrastructure\\Payment.Infrastructure.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.infrastructure\\persistence\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAD5665-A5D9-4D62-A022-068C36517B95}|src\\Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:src\\payment.infrastructure\\persistence\\paymentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AAD5665-A5D9-4D62-A022-068C36517B95}|src\\Payment.Infrastructure\\Payment.Infrastructure.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.infrastructure\\persistence\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AAD5665-A5D9-4D62-A022-068C36517B95}|src\\Payment.Infrastructure\\Payment.Infrastructure.csproj|solutionrelative:src\\payment.infrastructure\\persistence\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA792C31-D9EB-4687-896C-0330B6F035F0}|src\\Payment.Domain\\Payment.Domain.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA792C31-D9EB-4687-896C-0330B6F035F0}|src\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\payment.domain\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C42B48-C677-46F7-B84F-B26E36EDC6AB}|src\\Payment.API\\Payment.API.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C42B48-C677-46F7-B84F-B26E36EDC6AB}|src\\Payment.API\\Payment.API.csproj|solutionrelative:src\\payment.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA792C31-D9EB-4687-896C-0330B6F035F0}|src\\Payment.Domain\\Payment.Domain.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA792C31-D9EB-4687-896C-0330B6F035F0}|src\\Payment.Domain\\Payment.Domain.csproj|solutionrelative:src\\payment.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C42B48-C677-46F7-B84F-B26E36EDC6AB}|src\\Payment.API\\Payment.API.csproj|d:\\net8service\\t_net8services\\services\\payment\\src\\payment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C42B48-C677-46F7-B84F-B26E36EDC6AB}|src\\Payment.API\\Payment.API.csproj|solutionrelative:src\\payment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "src\\Payment.Domain\\Entities\\Payment.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "src\\Payment.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:37:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Infrastructure\\Persistence\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "src\\Payment.Infrastructure\\Persistence\\PaymentRepository.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Infrastructure\\Persistence\\PaymentRepository.cs",
+              "RelativeToolTip": "src\\Payment.Infrastructure\\Persistence\\PaymentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:36:51.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDbContext.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Payment.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "RelativeToolTip": "src\\Payment.Infrastructure\\Persistence\\PaymentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:36:50.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "src\\Payment.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Domain\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "src\\Payment.Domain\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:36:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCreatedConsumer.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Application\\Consumers\\OrderCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\Payment.Application\\Consumers\\OrderCreatedConsumer.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.Application\\Consumers\\OrderCreatedConsumer.cs",
+              "RelativeToolTip": "src\\Payment.Application\\Consumers\\OrderCreatedConsumer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:36:25.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Payment.API\\Program.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.API\\Program.cs",
+              "RelativeToolTip": "src\\Payment.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:36:23.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.API\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "src\\Payment.API\\Controllers\\PaymentController.cs",
+              "ToolTip": "D:\\Net8Service\\t_Net8Services\\services\\Payment\\src\\Payment.API\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "src\\Payment.API\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T04:36:16.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

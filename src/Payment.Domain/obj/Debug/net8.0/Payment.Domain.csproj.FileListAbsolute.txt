@@ -1,0 +1,15 @@
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.AssemblyReference.cache
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfoInputs.cache
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.AssemblyInfo.cs
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.csproj.CoreCompileInputs.cache
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\bin\Debug\net8.0\Payment.Domain.deps.json
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\bin\Debug\net8.0\Payment.Domain.dll
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\bin\Debug\net8.0\Payment.Domain.pdb
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\bin\Debug\net8.0\Shop.Events.dll
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\bin\Debug\net8.0\Shop.Events.pdb
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment..9B9F349B.Up2Date
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.dll
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\refint\Payment.Domain.dll
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\Payment.Domain.pdb
+d:\Net8Service\t_Net8Services\services\Payment\src\Payment.Domain\obj\Debug\net8.0\ref\Payment.Domain.dll
