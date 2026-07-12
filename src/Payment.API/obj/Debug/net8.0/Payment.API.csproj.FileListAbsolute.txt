@@ -62,3 +62,5 @@ d:\Net8Service\t_Net8Services\services\Payment\src\Payment.API\obj\Debug\net8.0\
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.API\obj\Debug\net8.0\Payment.API.genruntimeconfig.cache
 d:\Net8Service\t_Net8Services\services\Payment\src\Payment.API\obj\Debug\net8.0\ref\Payment.API.dll
 D:\Net8Service\t_Net8Services\services\Payment\src\Payment.API\obj\Debug\net8.0\Payment.API.sourcelink.json
+D:\Net8Service\t_Net8Services\services\Payment\src\Payment.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Net8Service\t_Net8Services\services\Payment\src\Payment.API\bin\Debug\net8.0\appsettings.Production.json

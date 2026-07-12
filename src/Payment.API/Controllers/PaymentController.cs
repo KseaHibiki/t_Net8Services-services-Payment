@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Serilog;
 using Payment.Domain.Interfaces;
 using Payment.Domain.Entities;
@@ -116,6 +117,16 @@ public class PaymentsController : ControllerBase
         {
             Log.Error(ex, "支付处理业务异常: OrderId={OrderId}", orderId);
             return BadRequest(new { Message = ex.Message });
+        }
+        catch (DbUpdateConcurrencyException ex)
+        {
+            // 乐观锁并发冲突：Payment 记录在读取后被其他请求修改，RowVersion 不匹配
+            Log.Warning(ex, "乐观锁并发冲突，支付记录已被其他请求修改: OrderId={OrderId}", orderId);
+            return Conflict(new
+            {
+                Message = "支付记录已被其他请求修改，请刷新页面后重试",
+                ConcurrencyConflict = true
+            });
         }
         finally
         {
